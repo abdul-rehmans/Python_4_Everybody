@@ -1,1 +1,1 @@
-print ("Abdul Rehman from pakistan,")
+print ("Abdul Rehman")
